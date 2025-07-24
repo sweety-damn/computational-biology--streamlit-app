@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+torch
+py3dmol
+stmol
+biopython
+openmm
+MDAnalysis
+plotly
+rdkit-pypi
+requests
+web3
+ipfshttpclient
+meeko
+vina-python
