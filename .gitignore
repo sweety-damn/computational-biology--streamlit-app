@@ -1,0 +1,45 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+molenv/
+*.env
+
+# IDE settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Conda environment files
+*.conda
+*.yaml
+
+# Output folders and files
+cbp_results_*/
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# IPFS temporary files
+.ipfs/
